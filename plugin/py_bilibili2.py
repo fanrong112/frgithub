@@ -33,7 +33,6 @@ class Spider(Spider):  # 元类 默认的元类 type
                 'type_id':cateManual[k]
             })
        # result['class'] = classes
-       
         result['class'] =  self.config['classes']
         if(filter):
             result['filters'] = self.config['filter']
