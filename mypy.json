@@ -29,10 +29,10 @@
 	},
 		  
        {
-		"key": "py_bilivd",
+		"key": "py_bilibili2",
 		"name": "B站(弹幕)",
 		"type": 3,
-		"api": "py_bilivd",
+		"api": "py_bilibili2",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
