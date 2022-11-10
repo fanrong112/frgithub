@@ -26,6 +26,17 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://jsd.eagleyao.com/gh/fanrong112/frgithub@main/plugin/py_bilivd.py"
+	},
+		  
+       {
+		"key": "py_bilivd",
+		"name": "B站(弹幕)",
+		"type": 3,
+		"api": "py_bilivd",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://jsd.eagleyao.com/gh/fanrong112/frgithub@main/plugin/py_bilibili2.py"
 	},{
 		"key": "py_3qu",
 		"name": "3QU",
